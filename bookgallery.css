@@ -1,0 +1,29 @@
+@import url('https://fonts.googleapis.com/css2?family=Kalam&family=Oswald&family=Shadows+Into+Light&family=Zilla+Slab&display=swap');
+.col{
+    width: 23%;
+    border: 2px black solid;
+    height: 564px;
+    border-radius: 9px;
+    /* background-color:black */
+    color :black;
+    float: left;
+    padding: 10px;
+}
+h2{
+    text-align: center;
+    font-family: 'Kalam', cursive;
+}
+img{
+    width: 33%%;
+    height: 273px;
+    margin-left:40%;
+}
+h1{
+    text-align: center;
+    font-family: 'Oswald', sans-serif;
+
+}
+p{
+    font-family: 'Kanit', sans-serif;
+
+}
